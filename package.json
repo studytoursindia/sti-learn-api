@@ -1,0 +1,7 @@
+{
+  "name": "sti-learn-api",
+  "version": "1.0.0",
+  "description": "Simple REST API + GRAPHQL example",
+  "author": "Sagar Patel",
+  "license": "ISC"
+}

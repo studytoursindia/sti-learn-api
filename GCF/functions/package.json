@@ -1,6 +1,6 @@
 {
   "name": "sti-learn-api",
-  "description": "Cloud Functions for Firebase",
+  "description": "API example using REST and APOLLO GRAPHQL in CLOUD FUNCTIONS",
   "scripts": {
     "lint": "eslint .",
     "serve": "firebase emulators:start --only functions",
