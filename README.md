@@ -1,3 +1,3 @@
-# rest-api
+# API EXAMPLES
 
 Simple REST API + APOLLO GRAPHQL example
