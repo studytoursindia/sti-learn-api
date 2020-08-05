@@ -3,6 +3,8 @@
 ### STEP-1
 
 - update ##_YOUR_PROJECT_NAME_## in file ".firebaserc"
+- Check note.txt
+- Update db.js and models
 
 ### STEP-2
 
