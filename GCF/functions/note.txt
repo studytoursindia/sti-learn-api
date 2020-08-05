@@ -1,0 +1,6 @@
+-------Example frontend-------
+https://jsbin.com/tiyisuruzo/edit?html,js,output
+
+
+------sequelize-auto--------
+sequelize-auto -h <host> -d <database> -u <user> -x [password] -p [port]  --dialect [dialect] -c [/path/to/config] -o [/path/to/models]

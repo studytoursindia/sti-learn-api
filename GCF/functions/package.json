@@ -22,7 +22,8 @@
     "graphql-tools": "^6.0.15",
     "graphql-type-json": "^0.3.2",
     "lodash": "^4.17.19",
-    "mysql2": "^2.1.0"
+    "mysql2": "^2.1.0",
+    "sequelize": "^6.3.4"
   },
   "devDependencies": {
     "eslint": "^5.12.0",
