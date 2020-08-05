@@ -1,1 +1,0 @@
-// add mysql connection and export to be used in resolvers
